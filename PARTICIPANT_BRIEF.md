@@ -1,4 +1,4 @@
-# Invariant Gate — External Wrap Test (1-pager)
+# Invariant Gate — External Wrap Test
 
 ## What this is
 
